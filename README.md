@@ -1,2 +1,2 @@
 # SimulaVestQuestions
- Aplicação desktop paralela para poder manipular o banco de dados com as questões do aplicativo SimulaVest
+ Aplicação desktop desenvolvida em C# de uso somente para usuários com permissão que buscam alimentar o banco de dados do Firebase de questões do aplicativo mobile SimulaVest.
